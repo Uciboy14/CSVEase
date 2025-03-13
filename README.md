@@ -4,7 +4,7 @@ Copy
 Edit
 # 📝 CSVEase - CSV Processing Made Easy
 
-![CSVEase Banner](./data/csvbanner.png.png)
+![CSVEase Banner](./data/csvbanner.png)
 
 ## 🚀 Overview
 CSVEase is a **powerful yet easy-to-use CSV processing tool** designed for data manipulation. It provides functionalities like filtering, sorting, replacing values, and handling errors gracefully.
